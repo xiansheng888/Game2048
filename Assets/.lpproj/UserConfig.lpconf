@@ -1,0 +1,160 @@
+<GlobalConfig CodeFontSize = "17"/>
+<BreakpointList>
+  <Breakpoint State = "BreakpointActive" Filename = "Lesson/LuaScripts/GameLogic/GameManager.lua" LineIndex = "20"/>
+</BreakpointList>
+<WatchList/>
+<ProjectUI>
+  <TreeState BaseX = "0" BaseY = "0" AlternativeItem = "LuaFolders#Assets#Lesson#LuaScripts#json.lua">
+    <SelectedList>
+      <Selected Path = "LuaFolders#Assets#Lesson#LuaScripts#head.lua"/>
+    </SelectedList>
+    <ExpandedList>
+      <Expanded Path = "LuaFolders"/>
+      <Expanded Path = "LuaFolders#Assets"/>
+      <Expanded Path = "LuaFolders#Assets#Lesson"/>
+      <Expanded Path = "LuaFolders#Assets#Lesson#LuaScripts"/>
+      <Expanded Path = "LuaFolders#Assets#Lesson#LuaScripts#GameLogic"/>
+    </ExpandedList>
+  </TreeState>
+</ProjectUI>
+<FindAnReplaceUI
+  Pattern = "ClearBoard"
+  MatchCase = "false"
+  MatchWholeWord = "false"
+  UseRegEx = "false"
+  Target = ""
+  Replace = ""/>
+<MainWindow
+  X = "320"
+  Y = "160"
+  Width = "1280"
+  Height = "720"
+  Maximized = "true"
+  LastCodeFilename = "D:/Downloads/unity-2048-tutorial-main/Assets/Lesson/LuaScripts/GameLogic/TileBoard.lua">
+  <DockingControl>
+    <DockingNode DockingDirection = "Horizontal">
+      <DockingNode DockingDirection = "None">
+        <DockingBlock Width = "410" Height = "923" DocumentStyle = "false">
+          <DockingCard
+            Text = "Project"
+            Tag = ""
+            ActivePage = "true"
+            ActivateTime = "0"/>
+          <DockingCard
+            Text = "Outline"
+            Tag = ""
+            ActivePage = "false"
+            ActivateTime = "0"/>
+        </DockingBlock>
+      </DockingNode>
+      <DockingNode DockingDirection = "Vertical">
+        <DockingNode DockingDirection = "None">
+          <DockingBlock Width = "1491" Height = "589" DocumentStyle = "true">
+            <DockingCard
+              Text = "TileBoard.lua"
+              Tag = "D:/Downloads/unity-2048-tutorial-main/Assets/Lesson/LuaScripts/GameLogic/TileBoard.lua"
+              ActivePage = "true"
+              ActivateTime = "22588877"
+              CaretLineIndex = "36"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "-238"/>
+            <DockingCard
+              Text = "GameManager.lua"
+              Tag = "D:/Downloads/unity-2048-tutorial-main/Assets/Lesson/LuaScripts/GameLogic/GameManager.lua"
+              ActivePage = "false"
+              ActivateTime = "21409630"
+              CaretLineIndex = "59"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "-816"/>
+            <DockingCard
+              Text = "Tile.lua"
+              Tag = "D:/Downloads/unity-2048-tutorial-main/Assets/Lesson/LuaScripts/GameLogic/Tile.lua"
+              ActivePage = "false"
+              ActivateTime = "21552908"
+              CaretLineIndex = "5"
+              CaretCodeCharIndex = "17"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "TileGrid.lua"
+              Tag = "D:/Downloads/unity-2048-tutorial-main/Assets/Lesson/LuaScripts/GameLogic/TileGrid.lua"
+              ActivePage = "false"
+              ActivateTime = "4397037"
+              CaretLineIndex = "9"
+              CaretCodeCharIndex = "10"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "main.lua"
+              Tag = "D:/Downloads/unity-2048-tutorial-main/Assets/Lesson/LuaScripts/main.lua"
+              ActivePage = "false"
+              ActivateTime = "11175155"
+              CaretLineIndex = "75"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "-1378"/>
+            <DockingCard
+              Text = "util.lua.txt"
+              Tag = "D:/Downloads/unity-2048-tutorial-main/Assets/XLua/Resources/xlua/util.lua.txt"
+              ActivePage = "false"
+              ActivateTime = "2940920"
+              CaretLineIndex = "62"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "-782"/>
+            <DockingCard
+              Text = "TileCell.lua"
+              Tag = "D:/Downloads/unity-2048-tutorial-main/Assets/Lesson/LuaScripts/GameLogic/TileCell.lua"
+              ActivePage = "false"
+              ActivateTime = "754989"
+              CaretLineIndex = "24"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+          </DockingBlock>
+        </DockingNode>
+        <DockingNode DockingDirection = "None">
+          <DockingBlock Width = "1491" Height = "327" DocumentStyle = "false">
+            <DockingCard
+              Text = "Output"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Call Stack"
+              Tag = ""
+              ActivePage = "true"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Locals"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Globals"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Watches"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Autos"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Breakpoints"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+          </DockingBlock>
+        </DockingNode>
+      </DockingNode>
+    </DockingNode>
+  </DockingControl>
+</MainWindow>
